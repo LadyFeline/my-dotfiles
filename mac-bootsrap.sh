@@ -51,3 +51,5 @@ echo "❤️  Done installing vimrc"
 # Link configs in .dotfiles to entries in ~
 ln -sf ~/.dotfiles/my_configs.vim ~/.vim_runtime/my_configs.vim
 ln -sf ~/.dotfiles/.zshrc ~/.zshrc
+ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -sf ~/.dotfiles/.gitignore_global ~/.gitignore_global
