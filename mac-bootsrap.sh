@@ -38,6 +38,9 @@ echo "❤️  Installing oh-my-zsh... Lucky that mac shell is default to zsh isn
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 echo "❤️  Done installing oh-my-zsh, looks a lot better isn't it?"
 
+# Install autosuggestions for zsh
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
 # Pull awesome_vimrc
 echo "❤️  Installing vimrc..."
 cd ~/
