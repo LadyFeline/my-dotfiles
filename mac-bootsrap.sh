@@ -48,8 +48,12 @@ git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install_awesome_vimrc.sh
 echo "❤️  Done installing vimrc"
 
+# 这个字体更适合coding
+brew install svn && brew install --cask homebrew/cask-fonts/font-dejavu-sans-mono-for-powerline
+
 # Link configs in .dotfiles to entries in ~
 ln -sf ~/.dotfiles/my_configs.vim ~/.vim_runtime/my_configs.vim
 ln -sf ~/.dotfiles/.zshrc ~/.zshrc
 ln -sf ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -sf ~/.dotfiles/.gitignore_global ~/.gitignore_global
+ln -sf ~/.dotfiles/.tmux.conf ~/.tmux.conf
