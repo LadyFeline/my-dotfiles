@@ -21,10 +21,12 @@ N.B. This is created for Mac, but linux should be very similar.
 * [ctags](https://github.com/universal-ctags/ctags)
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
 * [ack](https://github.com/mileszs/ack.vim)
-* [vim-terraform](https://github.com/hashivim/vim-terraform)
 
-## Languages support
-* python3
-* ipython
-* pyenv
-* terraform
+## Language support
+### [Python](https://www.python.org/)
+* [ipython](https://github.com/ipython/ipython)
+* [pyenv](https://github.com/pyenv/pyenv)
+
+### [terraform](https://github.com/hashicorp/terraform)
+* [terragrunt](https://terragrunt.gruntwork.io/)
+* [vim-terraform](https://github.com/hashivim/vim-terraform)
