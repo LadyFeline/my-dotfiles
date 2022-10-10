@@ -8,3 +8,4 @@ N.B. This is created for Mac, but linux should be very similar.
 - ctags & ripgrep & ack
 - git & gh
 - iterm2 & tmux
+- [vim-terraform](https://github.com/hashivim/vim-terraform)
