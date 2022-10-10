@@ -89,6 +89,8 @@ export EDITOR='vim'
 # For a full list of active aliases, run `alias`.
 alias ls="ls -alt --color"
 alias btags="ctags -R ."
+alias cleanup="find . -name '*.orig||*.rej' -delete"
+alias fetch="git checkout master; git pull"
 
 # fd - cd to selected directory
 fd() {
