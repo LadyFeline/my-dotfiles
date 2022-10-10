@@ -15,10 +15,13 @@ N.B. This is created for Mac, but linux should be very similar.
 * [oh-my-zsh (and lots built-in plugins)](https://github.com/ohmyzsh/ohmyzsh)
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [tmux](https://github.com/tmux/tmux)
-* [vim (and lots built-in plugins)](https://github.com/amix/vimrc)
-    - [ctags](https://github.com/universal-ctags/ctags)
-    - [ripgrep](https://github.com/BurntSushi/ripgrep)
-    - [ack](https://github.com/mileszs/ack.vim)
+### [vim (and lots built-in plugins)](https://github.com/amix/vimrc)
+* [ctags](https://github.com/universal-ctags/ctags)
+* [ripgrep](https://github.com/BurntSushi/ripgrep)
+* [ack](https://github.com/mileszs/ack.vim)
+### [docker](https://www.docker.com/)
+* Dockerfile
+* yaml
 
 ## Language support
 ### [Python](https://www.python.org/)
@@ -28,3 +31,4 @@ N.B. This is created for Mac, but linux should be very similar.
 ### [terraform](https://github.com/hashicorp/terraform)
 * [terragrunt](https://terragrunt.gruntwork.io/)
 * [vim-terraform](https://github.com/hashivim/vim-terraform)
+
