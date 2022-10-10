@@ -22,6 +22,7 @@ N.B. This is created for Mac, but linux should be very similar.
 ### [docker](https://www.docker.com/)
 * Dockerfile
 * yaml
+### [aws](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html#getting-started-install-instructions)
 
 ## Language support
 ### [Python](https://www.python.org/)

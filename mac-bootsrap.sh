@@ -54,6 +54,10 @@ brew install svn && brew install --cask homebrew/cask-fonts/font-dejavu-sans-mon
 # Docker for containerization
 brew install docker
 
+# install AWS
+curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+sudo installer -pkg AWSCLIV2.pkg -target /
+
 # Link configs in .dotfiles to entries in ~
 ln -sf ~/.dotfiles/my_configs.vim ~/.vim_runtime/my_configs.vim
 ln -sf ~/.dotfiles/.zshrc ~/.zshrc
