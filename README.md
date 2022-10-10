@@ -15,12 +15,10 @@ N.B. This is created for Mac, but linux should be very similar.
 * [oh-my-zsh (and lots built-in plugins)](https://github.com/ohmyzsh/ohmyzsh)
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [tmux](https://github.com/tmux/tmux)
-
-## Vim config
 * [vim (and lots built-in plugins)](https://github.com/amix/vimrc)
-* [ctags](https://github.com/universal-ctags/ctags)
-* [ripgrep](https://github.com/BurntSushi/ripgrep)
-* [ack](https://github.com/mileszs/ack.vim)
+    - [ctags](https://github.com/universal-ctags/ctags)
+    - [ripgrep](https://github.com/BurntSushi/ripgrep)
+    - [ack](https://github.com/mileszs/ack.vim)
 
 ## Language support
 ### [Python](https://www.python.org/)
